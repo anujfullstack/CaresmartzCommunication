@@ -1,5 +1,7 @@
 # **Caresmartz - Azure Service Bus Processing Functions**
 
+![image](https://github.com/user-attachments/assets/f7ce32bb-ac40-4014-8352-8c3806b1dbc4)
+
 This repository contains Azure Functions designed to handle various scenarios of Azure Service Bus messaging, including:
 
 - **Single message processing**
