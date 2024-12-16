@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Caresmartz.Services.SchedulerListeners": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7272",
+      "launchBrowser": false
+    }
+  }
+}
