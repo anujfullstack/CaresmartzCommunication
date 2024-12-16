@@ -111,6 +111,13 @@ Ensure the following environment variables are set in your Azure Function App or
 ### **C. Schedule Messages via HTTP**
 1. Send an HTTP POST request to the `HttpServiceBusScheduleMessage` endpoint.
 
+### **Azure Function**
+![image](https://github.com/user-attachments/assets/fdab586d-b593-4663-9556-735b6ebf12a0)
+
+![image](https://github.com/user-attachments/assets/df2eb79e-4e96-4d31-ae15-1f47af5abbb0)
+
+
+
 #### **Sample Request**
 **http**
 POST /api/HttpServiceBusScheduleMessage
